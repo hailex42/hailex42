@@ -7,7 +7,7 @@
   - [Azure Cyber Home Lab: Catch Attackers!](https://github.com/hailex42/azure-soc-honeynet)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hailex42/azure-network-protocols)
  
-    - <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hailex42/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hailex42/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/hailex42/ticket-lifecycle)
